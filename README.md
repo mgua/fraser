@@ -13,11 +13,11 @@ fraser works on any operating system where perl runs<p>
 to increase the quality of the generated sentences, extend the lists included in the code
 <p>
 some generated phrases:
-<p><p>
-my cousin's dog was crying
-a turtle was killed by the small yellow bird
-Helen ran away
-a big elephant was laughing
+<p><p><p>
+my cousin's dog was crying<p>
+a turtle was killed by the small yellow bird<p>
+Helen ran away<p>
+a big elephant was laughing<p>
 
 
 
