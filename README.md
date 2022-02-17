@@ -1,6 +1,6 @@
 # fraser
-a simple perl program to generate random sentences according to syntactic structures
-by Marco Guardigli, 2007: mgua-at-tomware.it, mgua00-at-gmail.com
+a simple perl program to generate random sentences according to syntactic structures<p>
+by Marco Guardigli, 2007<p>mgua-at-tomware.it<p>mgua00-at-gmail.com
 
 This simple programs allows definition of phrase structures and then generates random sentences.
 to use it:
